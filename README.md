@@ -19,7 +19,9 @@ To write a program to perform selection sort and insertion sort using python pro
 5.	Repeat the steps 2 to 4 for sorting all the elements in the array.
 ## Program:
 Developed by : Soundariyan M N
+
 Register no: 22008347
+
 i)	#Selection Sort
 ```python
 def selection_sort(nums):
